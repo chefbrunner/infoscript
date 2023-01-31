@@ -1,2 +1,2 @@
 #! /bin7bash
-ip adress show			#IP configuration
+ip --brief address show #short IPv4 and IPv6 configuration
