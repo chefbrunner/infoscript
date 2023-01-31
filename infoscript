@@ -1,2 +1,4 @@
 #! /bin7bash
+<<<<<<< HEAD
 ip --brief address show #short IPv4 and IPv6 configuration
+free
