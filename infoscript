@@ -4,3 +4,4 @@ ip --brief address show #short IPv4 and IPv6 configuration
 echo
 free
 echo
+df -hlT
